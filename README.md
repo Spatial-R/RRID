@@ -160,27 +160,26 @@ Infection and Incubation Period. Emerging Infectious Diseases, 22(3): 526-528.
 * [DELPHI](http://delphi.midas.cs.cmu.edu/): Developming the theory and practice of epidemiological forecasting. [Github](https://github.com/cmu-delphi/). Publicly Available Tools: Epidemiological time series visualizer ([EpiVis](http://delphi.midas.cs.cmu.edu/epivis/epivis.html)), API to automatically updated epidemiological data sources ([Epi-Data](https://github.com/cmu-delphi/delphi-epidata)) and Visual comparison of scored submissions to CDC's Predict the Flu Challenge([FluScores](http://delphi.midas.cs.cmu.edu/misc/fluscores/)).
 
 * [Infectious Disease Dynamics Group at Johns Hopkins University](http://www.iddynamics.jhsph.edu/projects): run the gamut of the study of disease dynamics, from original data collection, to methodological research, to policy engagements. [Github](https://github.com/HopkinsIDD). 
+
+* [Koelle Research Group](https://sites.duke.edu/koelle/2016/11/07/the-koelle-lab-website-has-a-new-entry/): focuses on using mathematical models and statistical approaches to better understand the ecological and evolutionary dynamics of infectious diseases.
+
+* [Dennis L. Chao](http://www.cs.unm.edu/~dlchao/):   develop computer simulation models of infectious disease outbreaks such as influenza, dengue and cholera. Open analysis codes on dengue and cholera. 
+ 
+* [Vladimir N. Minin](http://www.stat.washington.edu/vminin/): Predictive modeling of cholera outbreaks in Bangladesh, Latent continuous time Markov chains for partially-observed multistate disease processes and Likelihood-based inference for partially observed multi-type Markov branching processes.  Package:[bayessir](https://github.com/vnminin/bayessir).
+
+* [Edward Ionides](http://dept.stat.lsa.umich.edu/~ionides/):  Time series analysis with applications to ecology, epidemiology, health economics, cell motion and neuroscience. Methodological work on inference for partially observed stochastic dynamic systems.  Tutorials and slides on time series analysis  is usefull. 
+ 
+* [Aaron A. King](http://kinglab.eeb.lsa.umich.edu/king/software):  sophisticated mathematical, computational, and statistical tools to advance theoretical ecology and evolution on infectious disease. 
+ 
+* [CHICAS](http://chicas.lancaster-university.uk/projects/):  centre for the health informatics, computing and statsistics. [Campylobacter Transmission](http://enigmaproject.org.uk/), [Inference for Vector-borne Diseases](http://chicas.lancaster-university.uk/projects/vector_borne_disease.html)[[GIthub](https://github.com/chrism0dwk?tab=repositories)], [Modelling the Evolution of Seasonal Influenza](http://chicas.lancaster-university.uk/projects/seasonal_influenza_modelling.html), 
   
- * [Koelle Research Group](https://sites.duke.edu/koelle/2016/11/07/the-koelle-lab-website-has-a-new-entry/): focuses on using mathematical models and statistical approaches to better understand the ecological and evolutionary dynamics of infectious diseases.
- 
- 
- * [Dennis L. Chao](http://www.cs.unm.edu/~dlchao/):   develop computer simulation models of infectious disease outbreaks such as influenza, dengue and cholera. Open analysis codes on dengue and cholera. 
- 
- * [Vladimir N. Minin](http://www.stat.washington.edu/vminin/): Predictive modeling of cholera outbreaks in Bangladesh, Latent continuous time Markov chains for partially-observed multistate disease processes and Likelihood-based inference for partially observed multi-type Markov branching processes.  Package:[bayessir](https://github.com/vnminin/bayessir).
- 
- * [Edward Ionides](http://dept.stat.lsa.umich.edu/~ionides/):  Time series analysis with applications to ecology, epidemiology, health economics, cell motion and neuroscience. Methodological work on inference for partially observed stochastic dynamic systems.  Tutorials and slides on time series analysis  is usefull. 
- 
- * [Aaron A. King](http://kinglab.eeb.lsa.umich.edu/king/software):  sophisticated mathematical, computational, and statistical tools to advance theoretical ecology and evolution on infectious disease. 
- 
- * [CHICAS](http://chicas.lancaster-university.uk/projects/):  centre for the health informatics, computing and statsistics. [Campylobacter Transmission](http://enigmaproject.org.uk/), [Inference for Vector-borne Diseases](http://chicas.lancaster-university.uk/projects/vector_borne_disease.html)[[GIthub](https://github.com/chrism0dwk?tab=repositories)], [Modelling the Evolution of Seasonal Influenza](http://chicas.lancaster-university.uk/projects/seasonal_influenza_modelling.html), 
+* [Perkins Lab](http://perkinslab.weebly.com/): use mathematical models to answer questions about the transmission and control of infectious diseases. Our work primarily focuses on dengue, Zika, chikungunya, malaria, and other vector-borne diseases. 
   
-  * [Perkins Lab](http://perkinslab.weebly.com/): use mathematical models to answer questions about the transmission and control of infectious diseases. Our work primarily focuses on dengue, Zika, chikungunya, malaria, and other vector-borne diseases. 
-  
-  * [seeg lab](spatial ecology and epidemiology group): spatial ecology and epidemiology group in Department of Zoology, University of Oxford. [movement](https://github.com/SEEG-Oxford/movement): analysis of movement data in disease modelling and mapping, [seegMBG](https://github.com/SEEG-Oxford/seegMBG): contain a number of miscellaneous functions to streamline model-based geostatistical analyses as applied in several SEEG projects, [seegSDM](https://github.com/SEEG-Oxford/seegSDM): Streamlined Functions for Species Distribution Modelling in the SEEG Research Group. 
+* [seeg lab](spatial ecology and epidemiology group): spatial ecology and epidemiology group in Department of Zoology, University of Oxford. [movement](https://github.com/SEEG-Oxford/movement): analysis of movement data in disease modelling and mapping, [seegMBG](https://github.com/SEEG-Oxford/seegMBG): contain a number of miscellaneous functions to streamline model-based geostatistical analyses as applied in several SEEG projects, [seegSDM](https://github.com/SEEG-Oxford/seegSDM): Streamlined Functions for Species Distribution Modelling in the SEEG Research Group. 
  
- * [SpeLL](https://github.com/lgautier/project-tycho-utilities):  concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the improvement of large-scale data sets on the distribution of human and livestock populations. A second focus of active research is the spatial epidemiology of avian influenza, a major disease of poultry with a strong zoonotic potentia.
+* [SpeLL](https://github.com/lgautier/project-tycho-utilities):  concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the improvement of large-scale data sets on the distribution of human and livestock populations. A second focus of active research is the spatial epidemiology of avian influenza, a major disease of poultry with a strong zoonotic potentia.
  
- * [Wan Yang](http://www.columbia.edu/~wy2202/Research.html): applies mathematical modeling and Bayesian inference methods to study the transmission dynamics of infectious diseases such as influenza, Ebola, and measles. how environmental factors influence the transmission of influenza, its seasonality, and the underlying mechanisms. 
+* [Wan Yang](http://www.columbia.edu/~wy2202/Research.html): applies mathematical modeling and Bayesian inference methods to study the transmission dynamics of infectious diseases such as influenza, Ebola, and measles. how environmental factors influence the transmission of influenza, its seasonality, and the underlying mechanisms. 
   
 ## Contributing
 
