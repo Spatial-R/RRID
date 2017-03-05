@@ -24,9 +24,9 @@ RRID is a repository that includes the resources for the research on infectious 
 
 * [Project Tycho](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease reports for the **United States** dating back to 1888. For the level 2 dataset, the project provides an API (detailed document is [here](http://www.tycho.pitt.edu/api_help.php)). I write some rough [codes](https://github.com/Spatial-R/IDDC) to download the dataset using R software. You can also use the codes in [lgautier/project-tycho-utilities](https://github.com/lgautier/project-tycho-utilities).
 
-* [Morbidity and Mortality Weekly Report (MMWR)](https://wonder.cdc.gov/mmwr/mmwrmorb.asp?mmwr_year=2017&mmwr_week=06): Data for selected nationally notifiable diseases reported by the 50 states, New York City, the District of Columbia, and the U.S. territories at **week** interval.
+* [Morbidity and Mortality Weekly Report (MMWR)](https://wonder.cdc.gov/mmwr/mmwrmorb.asp?mmwr_year=2017&mmwr_week=06): data for selected nationally notifiable diseases reported by the 50 states, New York City, the District of Columbia, and the U.S. territories at **week** interval.
 
-* [Department of Health in Hongkong](http://www.chp.gov.hk/en/dns_submenu/10/26.html): including **monthly** notifiable infectious diseases, Sentinel surveillance (**weekly** number of hospital admission episodes of hand, foot and mouth disease (HFMD)) and **monthly** antibiotic resistance surveillance. 
+* [Department of Health in Hongkong](http://www.chp.gov.hk/en/dns_submenu/10/26.html): includes **monthly** notifiable infectious diseases, Sentinel surveillance (**weekly** number of hospital admission episodes of hand, foot and mouth disease (HFMD)) and **monthly** antibiotic resistance surveillance. 
 
 *Dengue*
 
@@ -34,13 +34,13 @@ RRID is a repository that includes the resources for the research on infectious 
 
 * [Dengue in Southeast Asia](http://www.tycho.pitt.edu/dev/pnas/): **monthly** dengue surveillance data collected from eight **countries** in Southeast Asia for the period 1993-2010. These data have been integrated from various sources, as described in detail in the supplementary material of the scientific paper of this study in the paper [Region-wide synchrony and traveling waves of dengue across eight countries in Southeast Asia Supporting Information](http://www.pnas.org/content/suppl/2015/10/01/1501375112.DCSupplemental).
 
-* [Dengue in Brazil](http://www.tycho.pitt.edu/dev/dengue_bwc/):  **weekly** number of dengue cases for cities in Brazil hosting games or football teams during the FIFA 2014 World Cup. The peeriod is  from 2001 to 2014.  These data have been used for the paper [Risk of Dengue for Tourists and Teams during the World Cup 2014 in Brazil](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003063).
+* [Dengue in Brazil](http://www.tycho.pitt.edu/dev/dengue_bwc/):  **weekly** number of dengue cases for cities in Brazil hosting games or football teams during the FIFA 2014 World Cup (from 2001 to 2014). These data have been used for the paper [Risk of Dengue for Tourists and Teams during the World Cup 2014 in Brazil](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003063).
 
-* [Dengue in Peru and Puerto Rico](http://dengueforecasting.noaa.gov/): this dataset were used to design an infectious disease forecasting project with the aim of galvanizing efforts to predict epidemics of dengue. Other information of those two cities including Population, Satellite Precipitation and Satellite Vegetation were in the website. 
+* [Dengue in Peru and Puerto Rico](http://dengueforecasting.noaa.gov/): this dataset was used to design an infectious disease forecasting project with the aim of galvanizing efforts to predict epidemics of dengue. Other information of those two cities including Population, Satellite Precipitation and Satellite Vegetation were in the website. 
 
-* [DengueCasesMalaysia](https://github.com/rengaray/DengueCasesMalaysia): Dengue **weekly** dataset in **Malaysia** at state level from 2011 to 2015. 
+* [DengueCasesMalaysia](https://github.com/rengaray/DengueCasesMalaysia): dengue **weekly** dataset in **Malaysia** at state level from 2011 to 2015. 
 
-* [Dengue in Guangdong](http://gdwst.gov.cn/a/sc/jikongguanli/index-2.html): **Weekly** dataset at country level. In additional, import or local information is also included.
+* [Dengue in Guangdong](http://gdwst.gov.cn/a/sc/jikongguanli/index-2.html): **weekly** dataset at country level. In additional, import or local information is also included.
 
 * [Chikungunya](http://www.tycho.pitt.edu/dev/chikungunya/): **weekly** reports of Chikungunya cases and deaths provided by the Pan American Health Organization ([PAHO](http://www.paho.org/hq/index.php?option=com_topics&view=article&id=343&Itemid=40931)) and the French Agence régionale de santé (ARS) at **country** level.
 
@@ -61,7 +61,7 @@ The dataset resources for flu have been aggregated in  the [res4flu](https://git
 
 * [Influenza activity for European](http://ecdc.europa.eu/en/healthtopics/seasonal_influenza/epidemiological_data/Pages/influenza_activity_EU_EEA_activity_maps.aspx): influenza activity surveillance for the countries in the European at **weekly** level. Period: 2009 to now
 
-* [FluTrackers.com](https://flutrackers.com/forum/forum/china-h7n9-outbreak-tracking/143874-flutrackers-2013-17-human-case-list-of-provincial-ministry-of-health-government-confirmed-influenza-a-h7n9-cases-with-links):   2013-17 Human Case List of Provincial/Ministry of Health/Government Confirmed Influenza A(H7N9) Cases. Addtional informations such as **gentle**, **age**, **city** or **province**, and clinical condition (death or not).  
+* [FluTrackers.com](https://flutrackers.com/forum/forum/china-h7n9-outbreak-tracking/143874-flutrackers-2013-17-human-case-list-of-provincial-ministry-of-health-government-confirmed-influenza-a-h7n9-cases-with-links): 2013-17 Human Case List of Provincial/Ministry of Health/Government Confirmed Influenza A(H7N9) Cases. Addtional informations such as **gentle**, **age**, **city** or **province**, and clinical condition (death or not).  
 
 * [World Animal Health Information Database](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/WI): provides access to all data (including avian influenza) held within OIE's new World Animal Health Information System from 2016-02-06. Besides, you can gather the information about the follow-up report. 
 
@@ -70,19 +70,20 @@ The dataset resources for flu have been aggregated in  the [res4flu](https://git
 * [DELPHI](https://github.com/cmu-delphi/delphi-epidata): contains influenza data from **FluView**, **ILINet**, **Google Flu Trends**, **Twitter Stream**, **Wikipedia Access Logs**, and Outpatient ILI from Taiwan's National Infectious Disease Statistics System at [hexchotomy region](https://en.wikipedia.org/wiki/Regions_of_Taiwan#Hexchotomy) .
 
 * [Dengue-data-stub](https://github.com/reichlab/dengue-data-stub): download time-series for Dengue in **Thailand**, however, the package is still under development.
+
 *Vaccination*
 
-* [Immunization schedule for countries](http://apps.who.int/immunization_monitoring/globalsummary/diseases): Immunization schedule by disease covered by antigens within age range selection centre, which is collected by the WHO. 
+* [Immunization schedule for countries](http://apps.who.int/immunization_monitoring/globalsummary/diseases): immunization schedule by disease or country, which is collected by the WHO. 
 
 ## Software Packages
 
-* [R0](https://cran.r-project.org/web/packages/R0/index.html): Estimation of R0 and Real-Time Reproduction Number from Epidemics.
+* [R0](https://cran.r-project.org/web/packages/R0/index.html): estimation of R0 and real-time reproduction number from epidemics.
 
-* [EpiEstim](https://cran.r-project.org/web/packages/EpiEstim/index.html): implements a Bayesian approach for quantifying transmissibility (instantaneous and case reproduction numbers) over time during an epidemic([Cori et al. (AJE, 2013)](https://academic.oup.com/aje/article/178/9/1505/89262/A-New-Framework-and-Software-to-Estimate-Time)). Some examples are [here](http://spatial-r.com/en/2015/07/R0/).
+* [EpiEstim](https://cran.r-project.org/web/packages/EpiEstim/index.html): implements a Bayesian approach for quantifying transmissibility (instantaneous and case reproduction numbers) over time during an epidemic([Cori et al. (AJE, 2013)](https://academic.oup.com/aje/article/178/9/1505/89262/A-New-Framework-and-Software-to-Estimate-Time)). Examples are [here](http://spatial-r.com/en/2015/07/R0/).
 
 * [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html):  implements the dynamic models written in the book : [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). You also can found the [web introduction](http://www.modelinginfectiousdiseases.org/) to this book. 
 
-* [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease with deterministic compartmental models, stochastic agent-based models, and stochastic network models.
+* [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): mathematical modeling of infectious disease with deterministic compartmental models, stochastic agent-based models, and stochastic network models.
 
 * [episerve](https://sourceforge.net/projects/episerve/):  web-interface aiming to make the R tools for disease outbreak analysis available to to non-specialists. It relies on **epibase** for data structure and graphics, is integrated with **Epicollect** for data collection using mobile devices, and uses **EpiEstim** for reproduction number estimation. 
 
@@ -90,15 +91,15 @@ The dataset resources for flu have been aggregated in  the [res4flu](https://git
 
 * [panelPomp](https://github.com/cbreto/panelPomp): R package for statistical inference using panel (longitudinal data) POMPs (Partially Observed Markov Processes). Example is [here](http://kingaa.github.io/sbied/contacts/contacts.html): dynamic variation in sexual contact rates
 
-* [bayessir](https://github.com/vnminin/bayessir): Bayesian inference for hidden Markov Susceptible-Infected-Removed (SIR) model. Method was in the paper: Predictive modeling of cholera outbreaks in Bangladesh, Annals of Applied Statistics, 10, 575 – 595.
+* [bayessir](https://github.com/vnminin/bayessir): bayesian inference for hidden Markov Susceptible-Infected-Removed (SIR) model. Method was in the paper: Predictive modeling of cholera outbreaks in Bangladesh, Annals of Applied Statistics, 10, 575 – 595.
 
-* [debinfer](https://github.com/pboesu/debinfer): Bayesian inference for dynamical models of biological systems. Document: [Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021).
+* [debinfer](https://github.com/pboesu/debinfer): bayesian inference for dynamical models of biological systems. Document: [Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021).
 
 * [WeibullHM](https://github.com/zhifeiyan/WeibullHM): fitting a hierarchical Bayesian Weibull hidden Markov model via a forward filtering backward sampling MCMC algorithm. Document will come soon.  
 
-* [BDAepimodel](https://github.com/fintzij/BDAepimodel): Tractable fitting of stochastic epidemic models via Bayesian data augmentation. Detailed vignette to the package as well as some examples of fit the dynamic model with bayesian aspect using the pomp package is also provided. 
+* [BDAepimodel](https://github.com/fintzij/BDAepimodel): tractable fitting of stochastic epidemic models via Bayesian data augmentation. Detailed vignette to the package as well as some examples of fit the dynamic model with bayesian aspect using the pomp package is also provided. 
 
-* [ABSEIR](https://github.com/grantbrown/ABSEIR): Spatial SEIR modeling via Approximate Bayesian Computation.  Analytical techniques is more completely described in [this paper](https://github.com/grantbrown/EARNMC/blob/master/manuscript-preprint/r0Methods.pdf), as well as in his [thesis work: Application Of Heterogeneous Computing Techniques To Compartmental Spatiotemporal Epidemic Models](http://ir.uiowa.edu/etd/1554/). Detailed Document is also in hisrepository [ EARNMC]()
+* [ABSEIR](https://github.com/grantbrown/ABSEIR): spatial SEIR modeling via Approximate Bayesian Computation. Analytical techniques is more completely described in [this paper](https://github.com/grantbrown/EARNMC/blob/master/manuscript-preprint/r0Methods.pdf), as well as in his [thesis work: Application Of Heterogeneous Computing Techniques To Compartmental Spatiotemporal Epidemic Models](http://ir.uiowa.edu/etd/1554/).
 
 * [SimInf](https://github.com/stewid/SimInf):  provides an efficient and flexible framework for data-driven stochastic disease spread modelling that integrates within-herd infection dynamics as continuous-time Markov chains and livestock movements between herds as scheduled events. [Website](http://siminf.org/).
 
@@ -106,15 +107,15 @@ The dataset resources for flu have been aggregated in  the [res4flu](https://git
 
 * [GI](https://github.com/davidchampredon/GI):  calculate generation interval distributions. Document: [Intrinsic and realized generation intervals in infectious-disease transmission](https://www.ncbi.nlm.nih.gov/pubmed/26674948).
 
-* [rEDM](https://github.com/ha0ye/rEDM): Empirical Dynamic Modeling Based on Attractor Reconstruction. Document: [Nonlinear Tools for a Nonlinear World: Applications of Empirical Dynamic Modeling to Marine Ecosystems](https://github.com/ha0ye/phd_thesis).  This method was also used to test the threshold value for envrionmental factors on infectious disease, seeing paper([Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.full)).
+* [rEDM](https://github.com/ha0ye/rEDM): empirical dynamic modeling based on attractor reconstruction. Document: [Nonlinear Tools for a Nonlinear World: Applications of Empirical Dynamic Modeling to Marine Ecosystems](https://github.com/ha0ye/phd_thesis).  This method was also used to test the threshold value for envrionmental factors on infectious disease, seeing paper([Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.full)).
 
 * [rAedesSim](https://github.com/alfcrisci/rAedesSim):  population mosquito modeling. 
 
 *Climatic*
 
-* [riem](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/riem/index.html): Allows to get weather data and air pollutant data from Automated Surface Observing System (ASOS) stations (**airports**) in the whole world thanks to the [Iowa Environment Mesonet website](https://mesonet.agron.iastate.edu/request/download.phtml?network=IN__ASOS). 
+* [riem](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/riem/index.html): allows to get weather data and air pollutant data from Automated Surface Observing System (ASOS) stations (**airports**) in the whole world thanks to the [Iowa Environment Mesonet website](https://mesonet.agron.iastate.edu/request/download.phtml?network=IN__ASOS). 
 
-* [GSODR](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/GSODR/index.html): Global Summary Daily Weather Data in R. Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day (GSOD) weather data from the from the USA National Climatic Data Center (NCDC). [Vignettes](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/GSODR/vignettes/GSODR.html). 
+* [GSODR](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/GSODR/index.html): global summary daily weather data in R. Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day (GSOD) weather data from the from the USA National Climatic Data Center (NCDC). [Vignettes](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/GSODR/vignettes/GSODR.html). 
 
 * [rnoaa](https://mirrors.tuna.tsinghua.edu.cn/CRAN/web/packages/rnoaa/index.html): lient for many 'NOAA' data sources including the 'NCDC' climate '[API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)'. In addition, we have an interface for 'NOAA' sea ice data, the 'NOAA' severe weather inventory, 'NOAA' Historical Observing 'Metadata' Repository ('HOMR') data, 'NOAA' storm data via 'IBTrACS', tornado data via the 'NOAA' storm prediction center
 
@@ -126,7 +127,7 @@ The dataset resources for flu have been aggregated in  the [res4flu](https://git
 
 * [Epigrass](http://pythonhosted.org/epigrass/index.html): pigrass is a framework for the construction and simulation of complex network epidemiology models. 
 
-* [heemod](https://github.com/pierucci/heemod): Models for Health Economic Evaluation. Features: Accounting for time-dependency, Probabilistic uncertainty analysis, and Deterministic sensitivity analysis. Most of the analyses presented in [Decision Modelling for Health Economic Evaluation](https://www.amazon.com/Decision-Modelling-Economic-Evaluation-Handbooks/dp/0198526628) can be performed with heemod.
+* [heemod](https://github.com/pierucci/heemod): models for health economic evaluation. Features: accounting for time-dependency, probabilistic uncertainty analysis, and deterministic sensitivity analysis. Most of the analyses presented in [Decision Modelling for Health Economic Evaluation](https://www.amazon.com/Decision-Modelling-Economic-Evaluation-Handbooks/dp/0198526628) can be performed with heemod.
 
 * [Assessing the Impact of OCV Use on Protection and Epidemic Risk](http://iddynamics.jhsph.edu/apps/shiny/ocvtools/): This tool estimates the proportion of the population directly protected from vaccine, the number of cases prevented (direct + indirect effects), and the final number expected to be infected for a given population size and vaccine coverage (required inputs). 
 
@@ -163,15 +164,15 @@ Infection and Incubation Period. Emerging Infectious Diseases, 22(3): 526-528.
 
 * [Koelle Research Group](https://sites.duke.edu/koelle/2016/11/07/the-koelle-lab-website-has-a-new-entry/): focuses on using mathematical models and statistical approaches to better understand the ecological and evolutionary dynamics of infectious diseases.
 
-* [Dennis L. Chao](http://www.cs.unm.edu/~dlchao/):   develop computer simulation models of infectious disease outbreaks such as influenza, dengue and cholera. Open analysis codes on dengue and cholera. 
+* [Dennis L. Chao](http://www.cs.unm.edu/~dlchao/): develop computer simulation models of infectious disease outbreaks such as influenza, dengue and cholera. Open analysis codes on dengue and cholera. 
  
-* [Vladimir N. Minin](http://www.stat.washington.edu/vminin/): Predictive modeling of cholera outbreaks in Bangladesh, Latent continuous time Markov chains for partially-observed multistate disease processes and Likelihood-based inference for partially observed multi-type Markov branching processes.  Package:[bayessir](https://github.com/vnminin/bayessir).
+* [Vladimir N. Minin](http://www.stat.washington.edu/vminin/): Predictive modeling of cholera outbreaks in Bangladesh, Latent continuous time Markov chains for partially-observed multistate disease processes and Likelihood-based inference for partially observed multi-type Markov branching processes. Package:[bayessir](https://github.com/vnminin/bayessir).
 
 * [Edward Ionides](http://dept.stat.lsa.umich.edu/~ionides/):  Time series analysis with applications to ecology, epidemiology, health economics, cell motion and neuroscience. Methodological work on inference for partially observed stochastic dynamic systems.  Tutorials and slides on time series analysis  is usefull. 
  
-* [Aaron A. King](http://kinglab.eeb.lsa.umich.edu/king/software):  sophisticated mathematical, computational, and statistical tools to advance theoretical ecology and evolution on infectious disease. 
+* [Aaron A. King](http://kinglab.eeb.lsa.umich.edu/king/software): sophisticated mathematical, computational, and statistical tools to advance theoretical ecology and evolution on infectious disease. 
  
-* [CHICAS](http://chicas.lancaster-university.uk/projects/):  centre for the health informatics, computing and statsistics. [Campylobacter Transmission](http://enigmaproject.org.uk/), [Inference for Vector-borne Diseases](http://chicas.lancaster-university.uk/projects/vector_borne_disease.html)[[GIthub](https://github.com/chrism0dwk?tab=repositories)], [Modelling the Evolution of Seasonal Influenza](http://chicas.lancaster-university.uk/projects/seasonal_influenza_modelling.html), 
+* [CHICAS](http://chicas.lancaster-university.uk/projects/): centre for the health informatics, computing and statsistics. [Campylobacter Transmission](http://enigmaproject.org.uk/), [Inference for Vector-borne Diseases](http://chicas.lancaster-university.uk/projects/vector_borne_disease.html)[[GIthub](https://github.com/chrism0dwk?tab=repositories)], [Modelling the Evolution of Seasonal Influenza](http://chicas.lancaster-university.uk/projects/seasonal_influenza_modelling.html), 
   
 * [Perkins Lab](http://perkinslab.weebly.com/): use mathematical models to answer questions about the transmission and control of infectious diseases. Our work primarily focuses on dengue, Zika, chikungunya, malaria, and other vector-borne diseases. 
   
