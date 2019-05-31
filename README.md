@@ -185,7 +185,8 @@ Infection and Incubation Period. Emerging Infectious Diseases, 22(3): 526-528.
 * [Wan Yang](http://www.columbia.edu/~wy2202/Research.html): applies mathematical modeling and Bayesian inference methods to study the transmission dynamics of infectious diseases such as influenza, Ebola, and measles. How environmental factors influence the transmission of influenza, its seasonality, and the underlying mechanisms. 
  
 ## Courses
-[http://sbfnk.github.io/mfiidd/index.html](http://sbfnk.github.io/mfiidd/index.html): Model fitting and inference for infectious disease dynamics
+
+* [http://sbfnk.github.io/mfiidd/index.html](http://sbfnk.github.io/mfiidd/index.html): Model fitting and inference for infectious disease dynamics
  
  
 ## Contributing
