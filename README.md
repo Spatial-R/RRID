@@ -183,7 +183,11 @@ Infection and Incubation Period. Emerging Infectious Diseases, 22(3): 526-528.
 * [SpeLL](https://github.com/lgautier/project-tycho-utilities):  concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the improvement of large-scale data sets on the distribution of human and livestock populations. A second focus of active research is the spatial epidemiology of avian influenza, a major disease of poultry with a strong zoonotic potentia.
  
 * [Wan Yang](http://www.columbia.edu/~wy2202/Research.html): applies mathematical modeling and Bayesian inference methods to study the transmission dynamics of infectious diseases such as influenza, Ebola, and measles. How environmental factors influence the transmission of influenza, its seasonality, and the underlying mechanisms. 
-  
+ 
+## Courses
+[http://sbfnk.github.io/mfiidd/index.html](http://sbfnk.github.io/mfiidd/index.html): Model fitting and inference for infectious disease dynamics
+ 
+ 
 ## Contributing
 
 Your contributions are always welcome! If you have additional resources on infectious disease, please open an issue in [here](https://github.com/Spatial-R/RRID/issues).
