@@ -14,6 +14,22 @@ RRID is a repository that includes the resources for the research on infectious 
 
 ## Public Datasets
 
+*COVID-19*
+* [Korea](https://github.com/parksw3/COVID19-Korea)
+* [UK](https://github.com/emmadoughty/Daily_COVID-19)
+* [Germeny](https://github.com/nevrome/covid19germany) or [Germany1](https://github.com/averissimo/covid19.de.data)
+* [US](https://github.com/aedobbyn/covid19us)
+* [Italy](https://github.com/RamiKrispin/covid19Italy)
+* [Swerland](https://github.com/covid19datahub/COVID19)
+* [Brail](https://covid.saude.gov.br)
+* [New Zealand]()
+* [Norway](https://www.covid19data.no/index.html)
+* [Indian](https://github.com/rahulnyk/covid19_india_data)
+* [Ireland](https://github.com/mathsnuig/coronaviz)
+* [European](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data) or [European1](https://github.com/averissimo/r-analysis-covid19)
+* [Japan](https://github.com/Sickle-Sword/covid19_prefecture)
+* [Switzerland](https://github.com/RamiKrispin/covid19swiss)
+
 *Combined dataset*
 
 * [Taiwan National Infectious Disease Statistics System](https://nidss.cdc.gov.tw/en/Default.aspx): provides **weekly** datasets from the Taiwan National Infectius Disease Surveillance System. You can download the case dataset with other infromations such as gentle, country,age group with the interval at 5 years. 
