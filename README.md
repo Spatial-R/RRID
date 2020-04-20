@@ -29,6 +29,8 @@ RRID is a repository that includes the resources for the research on infectious 
 * [European](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data) or [European1](https://github.com/averissimo/r-analysis-covid19)
 * [Japan](https://github.com/Sickle-Sword/covid19_prefecture)
 * [Switzerland](https://github.com/RamiKrispin/covid19swiss)
+* [Mobility](https://github.com/mattkerlogue/google-covid-mobility-scrape)
+
 
 *Combined dataset*
 
