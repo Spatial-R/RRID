@@ -21,7 +21,7 @@ RRID is a repository that includes the resources for the research on infectious 
 * [US](https://github.com/aedobbyn/covid19us)
 * [Italy](https://github.com/RamiKrispin/covid19Italy)
 * [Swerland](https://github.com/covid19datahub/COVID19)
-* [Brail](https://covid.saude.gov.br)
+* [Brail](https://covid.saude.gov.br) or [Brail1](https://mralbu.github.io/coronavirusbrazil/index.html)
 * [New Zealand]()
 * [Norway](https://www.covid19data.no/index.html)
 * [Indian](https://github.com/rahulnyk/covid19_india_data)
@@ -30,7 +30,7 @@ RRID is a repository that includes the resources for the research on infectious 
 * [Japan](https://github.com/Sickle-Sword/covid19_prefecture)
 * [Switzerland](https://github.com/RamiKrispin/covid19swiss)
 * [Mobility](https://github.com/mattkerlogue/google-covid-mobility-scrape)
-
+* [Testing](https://ourworldindata.org/grapher/covid-19-tests-cases-scatter-with-comparisons?time=2020-01-22..2020-04-08)
 
 *Combined dataset*
 
